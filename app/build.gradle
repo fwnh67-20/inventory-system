@@ -9,11 +9,11 @@ android {
         enabled = true
     }
 
-    compileSdkVersion 28
+    compileSdkVersion 31
     defaultConfig {
         applicationId "com.inventory.myinventorysystem.inventorysystem"
-        minSdkVersion 21
-        targetSdkVersion 28
+        minSdkVersion 27
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
